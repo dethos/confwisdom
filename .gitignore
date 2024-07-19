@@ -2,3 +2,4 @@ extractor.py
 prompt.md
 pyproject.toml
 poetry.lock
+.vscode/
